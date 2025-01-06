@@ -1,10 +1,27 @@
 # Bonjour 👋!
 
-Je suis étudiant en BTS SIO, passioné par le réseaux et le developpement. J'aimerais travailler dans la cybersecurité en tant que pentester.
+Je suis étudiant en BTS SIO, passionné par le réseau et le developpement. J'aimerais travailler dans la cybersecurité en tant que pen-tester.
 
 # Compétences :
-## Programmation
-- HTML, CSS, SQL, PHP.
-- Python.
-- Windows, Linux.
-- Network (switch conf ...)
+### Programmation
+- HTML
+- CSS
+- SQL
+- PHP
+- Python
+- Javascript
+
+### Système
+- Windows
+- Linux
+
+### Réseaux
+- Routeurs
+- Switch
+- Protocoles
+- Modèle OSI
+
+## Activités :
+- Jeux vidéos
+- M'informer sur les nouvelles technologies
+- TryHackMe
