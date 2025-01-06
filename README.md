@@ -22,6 +22,5 @@ Je suis étudiant en BTS SIO, passionné par le réseau et le developpement. J'a
 - Modèle OSI
 
 ## Activités :
-- Jeux vidéos
 - M'informer sur les nouvelles technologies
 - TryHackMe
